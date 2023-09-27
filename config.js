@@ -59,7 +59,7 @@ global.fgpyp = ''
 global.fglog = '' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/image(1).jpeg')
+global.imagen1 = fs.readFileSync('./src/images (1).jpeg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
